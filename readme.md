@@ -3,8 +3,6 @@
 - Discente : Vinícius Fernandes das Chagas (22050485)
 - Docente  : Prof. André Luis Cavalcante
 
----
-
 ## Compilando e Executando o Código
 
 Para compilar e executar o código, siga estas etapas:
